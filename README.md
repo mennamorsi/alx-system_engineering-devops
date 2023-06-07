@@ -1,1 +1,1 @@
-Read Me
+Alx 0x00. Shell, basics
